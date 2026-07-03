@@ -1,5 +1,7 @@
 # [pta平台](https://pintia.cn/)作业2025
 
+按ds平台进行考核，因此不再对pta这份进行更新
+
 ## 作业列表
 
 - 0-Introduction
